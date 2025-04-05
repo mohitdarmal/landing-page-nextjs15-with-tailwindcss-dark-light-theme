@@ -92,7 +92,7 @@ const HeroBanner = () => {
         </div>
         {/* Image Content */}
         <div data-aos="zoom-in" data-aos-delay="150" className="mx-auto hidden xl:block">
-            <Image src="/images/hero.png" alt="Banner" width={380} height={380} />
+            <Image src="./images/hero.png" alt="Banner" width={380} height={380} />
         </div>
       </div>
     </div>

@@ -35,9 +35,9 @@ const Slider = () => {
         autoPlaySpeed={4000}
         keyBoardControl={true}
       >
-        <ReviewCard image="/images/c1.png" name="John Doe" role="Founder Codex" />
-        <ReviewCard image="/images/c2.png" name="Charlin Krish" role="Founder Techbox" />
-        <ReviewCard image="/images/c3.png" name="Andy Lanes" role="Founder devbox" />
+        <ReviewCard image="./images/c1.png" name="John Doe" role="Founder Codex" />
+        <ReviewCard image="./images/c2.png" name="Charlin Krish" role="Founder Techbox" />
+        <ReviewCard image="./images/c3.png" name="Andy Lanes" role="Founder devbox" />
       </Carousel>
     </>
   );
